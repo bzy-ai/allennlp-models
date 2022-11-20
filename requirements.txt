@@ -1,3 +1,5 @@
+allennlp[all] @ git+https://ghproxy.com/https://github.com/dafang/allennlp.git@main
+
 torch>=1.7.0,<1.13.0
 
 # For structured prediction.
